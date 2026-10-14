@@ -3,14 +3,13 @@
 </p>
 
 
-Bem-vindo ao meu perfil! Sou graduando em Análise e Desenvolvimento de Sistemas pela Unisinos e atuo como **Desenvolvedor no Banrisul**, unindo construção de software com *Quality Assurance* para entregar soluções confiáveis.
-
-Tenho experiência no ciclo completo de desenvolvimento, com foco em automações robustas, testes contínuos e metodologias ágeis.
+Bem-vindo ao meu perfil! Formado em ADS pela Unisinos, Atuo com automações no ambiente corporativo do Banrisul**
 
 ## 🛠️ Tecnologias
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Playwright](https://shields.io)
+![Selenium](https://img.shields.io/badge/-selenium-CB02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![IBM DB2](https://img.shields.io/badge/IBM%20DB2-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
