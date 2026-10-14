@@ -3,12 +3,12 @@
 </p>
 
 
-Bem-vindo ao meu perfil! Formado em ADS pela Unisinos, Atuo com automações no ambiente corporativo do Banrisul**
+Bem-vindo ao meu perfil! Formado em ADS pela Unisinos, Atuo com automações no ambiente corporativo do **Banrisul**
 
 ## 🛠️ Tecnologias
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Playwright](https://shields.io)
+![Playwright](https://img.shields.io/badge/Playwright-ready-2EAD33?logo=playwright)
 ![Selenium](https://img.shields.io/badge/-selenium-CB02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
